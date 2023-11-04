@@ -1,4 +1,3 @@
-#include <Encoder.h>  //encoder library
 #include <PID_v1.h>   // PID library
 
 // DC24V40RPM DC motor  and MD30C R2 30A DC Motor Driver
